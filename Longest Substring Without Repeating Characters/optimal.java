@@ -1,3 +1,10 @@
+/**
+ * Time Complexity: O( N )
+ * 
+ * Space Complexity: O(N) where N represents the size of 
+ *                   HashSet where we are storing our elements
+ */
+
 import java.util.HashSet;
 
 public class optimal {

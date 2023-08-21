@@ -1,4 +1,9 @@
-
+/**Time Complexity: O( 2*N ) (sometimes left and right both 
+ *                  have to travel complete array)
+ * 
+ * Space Complexity: O(N) where N is the size of HashSet taken
+ *                    for storing the elements
+ */
 
 
 import java.util.HashSet;

@@ -2,7 +2,6 @@
 //time complexity = O(n);
 //space complexity = O(1);
 
-
 public class optimal {
     public static int[] sort(int arr[]) {
         int n = arr.length;
@@ -26,7 +25,6 @@ public class optimal {
                 arr[end] = temp;
                 end--;
             }
-           
 
         }
         return arr;
